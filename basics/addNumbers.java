@@ -1,4 +1,6 @@
-public class Addition {
+package com.company;
+
+public class addNumbers {
 
     public static void main(String[] args) {
 
@@ -10,4 +12,3 @@ public class Addition {
         System.out.println (sum);
     }
 }
-
