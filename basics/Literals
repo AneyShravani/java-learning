@@ -1,0 +1,14 @@
+package com.company;
+
+public class literals {
+    public static void main( String[] args) {
+        byte age = 16;
+        long ageDino = 5333L;
+        char ch = 'A';
+        float f1 = 0.22f;
+        double d1 = 0.333;
+        System.out.println(ageDino);
+        String str = "Shravani";
+        System.out.println(str);
+    }
+}
